@@ -16,5 +16,8 @@
     {"name":"Sprites","order":1,"path":"folders/Sprites.yy",},
     {"name":"Tile sets","order":2,"path":"folders/Tile sets.yy",},
   ],
-  "ResourceOrderSettings":[],
+  "ResourceOrderSettings":[
+    {"name":"Sprite3","order":2,"path":"sprites/Sprite3/Sprite3.yy",},
+    {"name":"sWall","order":1,"path":"sprites/sWall/sWall.yy",},
+  ],
 }
