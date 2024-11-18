@@ -17,7 +17,8 @@
     {"name":"Tile sets","order":2,"path":"folders/Tile sets.yy",},
   ],
   "ResourceOrderSettings":[
-    {"name":"Sprite3","order":2,"path":"sprites/Sprite3/Sprite3.yy",},
+    {"name":"sPecheur","order":2,"path":"sprites/sPecheur/sPecheur.yy",},
+    {"name":"sSol","order":3,"path":"sprites/sSol/sSol.yy",},
     {"name":"sWall","order":1,"path":"sprites/sWall/sWall.yy",},
   ],
 }
