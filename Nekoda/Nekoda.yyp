@@ -43,6 +43,7 @@
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
     {"id":{"name":"Room2","path":"rooms/Room2/Room2.yy",},},
     {"id":{"name":"Room3","path":"rooms/Room3/Room3.yy",},},
+    {"id":{"name":"sFish","path":"sprites/sFish/sFish.yy",},},
     {"id":{"name":"sPecheur","path":"sprites/sPecheur/sPecheur.yy",},},
     {"id":{"name":"sPlayer","path":"sprites/sPlayer/sPlayer.yy",},},
     {"id":{"name":"sSol","path":"sprites/sSol/sSol.yy",},},

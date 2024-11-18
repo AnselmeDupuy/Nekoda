@@ -24,6 +24,7 @@
     {"name":"opponent","order":5,"path":"objects/opponent/opponent.yy",},
     {"name":"Room2","order":1,"path":"rooms/Room2/Room2.yy",},
     {"name":"Room3","order":2,"path":"rooms/Room3/Room3.yy",},
+    {"name":"sFish","order":4,"path":"sprites/sFish/sFish.yy",},
     {"name":"sPecheur","order":2,"path":"sprites/sPecheur/sPecheur.yy",},
     {"name":"sSol","order":3,"path":"sprites/sSol/sSol.yy",},
     {"name":"sWall","order":1,"path":"sprites/sWall/sWall.yy",},
