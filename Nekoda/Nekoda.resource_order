@@ -17,6 +17,13 @@
     {"name":"Tile sets","order":2,"path":"folders/Tile sets.yy",},
   ],
   "ResourceOrderSettings":[
+    {"name":"border","order":2,"path":"objects/border/border.yy",},
+    {"name":"fish","order":4,"path":"objects/fish/fish.yy",},
+    {"name":"game","order":1,"path":"objects/game/game.yy",},
+    {"name":"ground","order":3,"path":"objects/ground/ground.yy",},
+    {"name":"opponent","order":5,"path":"objects/opponent/opponent.yy",},
+    {"name":"Room2","order":1,"path":"rooms/Room2/Room2.yy",},
+    {"name":"Room3","order":2,"path":"rooms/Room3/Room3.yy",},
     {"name":"sPecheur","order":2,"path":"sprites/sPecheur/sPecheur.yy",},
     {"name":"sSol","order":3,"path":"sprites/sSol/sSol.yy",},
     {"name":"sWall","order":1,"path":"sprites/sWall/sWall.yy",},
