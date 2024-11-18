@@ -1,6 +1,6 @@
 {
   "$GMSprite":"",
-  "%Name":"spr_baddie_defeat",
+  "%Name":"spr_baddie_bre",
   "bboxMode":0,
   "bbox_bottom":90,
   "bbox_left":23,
@@ -21,7 +21,7 @@
   "layers":[
     {"$GMImageLayer":"","%Name":"2e180a3c-1c5e-40bb-847c-8978cc0671c8","blendMode":0,"displayName":"default","isLocked":false,"name":"2e180a3c-1c5e-40bb-847c-8978cc0671c8","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
   ],
-  "name":"spr_baddie_defeat",
+  "name":"spr_baddie_bre",
   "nineSlice":null,
   "origin":4,
   "parent":{
@@ -33,7 +33,7 @@
   "resourceVersion":"2.0",
   "sequence":{
     "$GMSequence":"",
-    "%Name":"spr_baddie_defeat",
+    "%Name":"spr_baddie_bre",
     "autoRecord":true,
     "backdropHeight":768,
     "backdropImageOpacity":0.5,
@@ -57,7 +57,7 @@
       "resourceType":"KeyframeStore<MomentsEventKeyframe>",
       "resourceVersion":"2.0",
     },
-    "name":"spr_baddie_defeat",
+    "name":"spr_baddie_bre",
     "playback":1,
     "playbackSpeed":20.0,
     "playbackSpeedType":0,
@@ -69,7 +69,7 @@
     "tracks":[
       {"$GMSpriteFramesTrack":"","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"$KeyframeStore<SpriteFrameKeyframe>":"","Keyframes":[
             {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"42f6a01a-20a8-4a7a-98ba-8eb9e0924572","path":"sprites/spr_baddie_defeat/spr_baddie_defeat.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"42f6a01a-20a8-4a7a-98ba-8eb9e0924572","path":"sprites/spr_baddie_bre/spr_baddie_bre.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
               },"Disabled":false,"id":"e8d1ce13-f636-430c-9aae-4e0ff3711e8b","IsCreationKey":false,"Key":0.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
           ],"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"2.0",},"modifiers":[],"name":"frames","resourceType":"GMSpriteFramesTrack","resourceVersion":"2.0","spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],
